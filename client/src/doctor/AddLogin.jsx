@@ -156,7 +156,7 @@ class TextFields extends React.Component {
 
     return (
       <div>
-        <Typography variant="display2">Add a new Study</Typography>
+        <Typography variant="display2">CREATE A NEW STUDY</Typography>
         <Card className={classes.card}>
       <form className={classes.container} noValidate autoComplete="off"> 
 
